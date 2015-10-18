@@ -10,5 +10,6 @@ A programatic bare metal deployment of all core services in a Microsoft environm
 * Configuration options specified in objects
 * Modular structure respective of the Roles & Features defined by Microsoft
 * Deploy to Azure (other provisioning platforms will be ammended in future releases)
+
 ## Disclaimer
 Currently the project should not be used for production use. Numerous prerequisites and competencies are required for effective utilization of the project.
